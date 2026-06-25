@@ -20,17 +20,6 @@ This repository contains my solutions to various LeetCode problems implemented i
   * Sliding Window
   * Graphs
 
-## 📂 Repository Structure
-
-```text
-LeetCode/
-├── LeetCode_1
-├── LeetCode_Question_2.java
-├── Leetcode_3
-├── Leetcode_4
-└── README.md
-```
-
 ## 🎯 Purpose
 
 This repository serves as:
